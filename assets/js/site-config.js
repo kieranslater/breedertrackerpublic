@@ -3,7 +3,7 @@ window.SITE_CONFIG = {
   siteTitle: "DogSeasons",
   appStoreName: "Breeder Tracker",
   tagline: "Breeding records, litter tracking and stud management for serious dog breeders.",
-  supportEmail: "support@yourdomain.com",
+  supportEmail: "breedertracker-dev@kieranslater.co.uk",
   iosAppStoreUrl: "#",
   macAppStoreUrl: "#",
   iosLinkLabel: "Download on the App Store for iPhone and iPad",
