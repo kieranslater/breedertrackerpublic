@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="DogSeasons paw icon">
+  <rect width="128" height="128" rx="28" fill="#f5f4f7"/>
+  <g fill="#3f9f55">
+    <circle cx="34" cy="32" r="12"/>
+    <circle cx="58" cy="22" r="11"/>
+    <circle cx="82" cy="28" r="12"/>
+    <circle cx="97" cy="50" r="11"/>
+    <path d="M63 47c-17.5 0-31 12.4-31 28 0 15 12.5 25 31 25s33-10 33-25c0-15.6-15.5-28-33-28Z"/>
+  </g>
+</svg>
